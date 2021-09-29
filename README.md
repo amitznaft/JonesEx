@@ -7,6 +7,7 @@
 #### Using Git
 git clone https://github.com/amitznaft/JonesEx.git ./myfolder
 #### using manual download ZIP
-Download repository and
-Uncompress to your desired directory
+1. Download repository
+2. Uncompress to your desired directory
+
    
