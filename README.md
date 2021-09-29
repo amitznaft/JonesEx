@@ -10,8 +10,8 @@ git clone https://github.com/amitznaft/JonesEx.git ./myfolder
 1. Download repository
 2. Uncompress to your desired directory
 #### Install npm dependencies after installing (Git or manual download)
-cd myproject
-npm install
+1. cd myproject
+2. npm install
 #### Setting up environment
 1. You will find a file named .env.example on root directory of project.
 2. Create a new file by copying and pasting the file and then renaming it to just .env
