@@ -1,6 +1,6 @@
 
 
 # Instructions how to run the code
-    ## Software Requirements- 
+    # Software Requirements- 
     #### node js , mongoDB Atlas account
    
