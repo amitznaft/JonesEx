@@ -26,13 +26,15 @@ npm test
 ## Server Functionality
 #### Save new order (POST /api/orders)
 the api require order to be json as :
+```
 {
 	"orderDate" : type : Date (required)
 	"customerId" : type : String (required)
 	"items" : type : String Array (required)
 	"price": type : Number (required)
-   comments : type : String
+        comments : type : String
 }
+```
 #### Get all orders from the last day (GET /api/orders)
 
    
